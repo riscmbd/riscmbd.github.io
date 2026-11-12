@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Ahmed Hassan",
+    "position": "General Manager at Akij Group",
+    "rating": 5,
+    "testimonial": "Rabiul's strategic approach to supply chain optimization has delivered exceptional results. His ability to identify bottlenecks and implement data-driven solutions has significantly improved our operational efficiency."
+  },
+  {
+    "id": 2,
+    "name": "Fatima Khan",
+    "position": "Director of Operations at Industrial Corp",
+    "rating": 5,
+    "testimonial": "Working with Rabiul on procurement optimization was transformative. His expertise in supplier relationship management and cost reduction strategies delivered measurable savings for our organization."
+  },
+  {
+    "id": 3,
+    "name": "Mohammad Ali",
+    "position": "Supply Chain Director at Manufacturing Ltd",
+    "rating": 5,
+    "testimonial": "Rabiul's comprehensive understanding of import/export operations and regulatory compliance is outstanding. He streamlined our documentation processes and reduced processing times significantly."
+  },
+  {
+    "id": 4,
+    "name": "Rashida Begum",
+    "position": "Finance Manager at Trading Company",
+    "rating": 5,
+    "testimonial": "Rabiul's expertise in LC compliance and financial management within supply chain operations is remarkable. His attention to detail and risk management approach has been invaluable to our business."
+  }
+]
